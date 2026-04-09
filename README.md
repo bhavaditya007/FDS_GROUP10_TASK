@@ -45,7 +45,7 @@ Naive Bayes : 0.80
 ---
 
 ## 📈 PCA Visualization
-![PCA](pca.png)
+![PCA](pcs.png)
 
 ---
 
